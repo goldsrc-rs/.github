@@ -8,8 +8,6 @@
 
 Welcome to the **GoldSrc.rs** organization! We are building next-generation modding infrastructure for the GoldSrc engine (Half-Life 1, Counter-Strike 1.6, Team Fortress Classic, Day of Defeat, Sven Co-op).
 
----
-
 ## Ecosystem & Repositories
 
 | Repository | Status | Description |
@@ -19,8 +17,6 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 | **[wasm-plugin-template](https://github.com/goldsrc-rs)** | Planned | cargo generate starter template for authoring sandboxed WASM plugins. |
 | **[docs](https://github.com/goldsrc-rs)** | Planned | Comprehensive architecture guides, API reference, and plugin author tutorials. |
 
----
-
 ## Core Philosophy
 
 1. **Memory Safety & Panic Isolation:** No server crashes from plugin segfaults. All plugin code is sandboxed in WebAssembly with catch_unwind FFI barriers.
@@ -28,21 +24,15 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 3. **Ergonomic Rust SDK:** Modern ECS (Entity Component System), typed entity handles, vector math, and event buses.
 4. **Dual Backend Compatibility:** Operates seamlessly via Metamod-r or as a standalone direct GameDLL proxy.
 
----
-
 ## Getting Involved & Contributing
 
 All repositories welcome contributions! Check out the [Contributing Guide](https://github.com/goldsrc-rs/goldsrc-rs/blob/dev/CONTRIBUTING.md) and [Roadmap](https://github.com/goldsrc-rs/goldsrc-rs/blob/dev/ROADMAP.md) in the main repository.
-
----
 
 ## Trademark Notice
 
 > [!NOTE]
 > Half-Life, GoldSrc, and the Half-Life logo are trademarks and/or registered trademarks of Valve Corporation.  
 > GoldSrc.rs is an independent, non-commercial open-source project and is not affiliated with, endorsed by, or sponsored by Valve Corporation or Rust Foundation.
-
----
 
 ## License
 
