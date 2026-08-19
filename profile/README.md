@@ -10,7 +10,7 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 
 ---
 
-## 🏛️ Ecosystem & Repositories
+## Ecosystem & Repositories
 
 | Repository | Status | Description |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 
 ---
 
-## 🚀 Core Philosophy
+## Core Philosophy
 
 1. **Memory Safety & Panic Isolation:** No server crashes from plugin segfaults. All plugin code is sandboxed in WebAssembly with catch_unwind FFI barriers.
 2. **True Hot-Reloading:** Compile and reload .wasm plugins on live dedicated servers in milliseconds with zero map changes or player disconnects.
@@ -30,12 +30,12 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 
 ---
 
-## 🤝 Getting Involved & Contributing
+## Getting Involved & Contributing
 
 All repositories welcome contributions! Check out the [Contributing Guide](https://github.com/goldsrc-rs/goldsrc-rs/blob/dev/CONTRIBUTING.md) and [Roadmap](https://github.com/goldsrc-rs/goldsrc-rs/blob/dev/ROADMAP.md) in the main repository.
 
 ---
 
-## 📜 License
+## License
 
 All official GoldSrc.rs projects are dual-licensed under **MIT** and **Apache-2.0**.
