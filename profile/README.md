@@ -8,7 +8,7 @@
 
 Welcome to the **GoldSrc.rs** organization! We are building next-generation modding infrastructure for the GoldSrc engine (Half-Life 1, Counter-Strike 1.6, Team Fortress Classic, Day of Defeat, Sven Co-op).
 
-## 🏛️ Ecosystem Overview & Project Matrix
+## Ecosystem Overview & Project Matrix
 
 | Project | Status | Description |
 | :--- | :---: | :--- |
@@ -21,21 +21,21 @@ Welcome to the **GoldSrc.rs** organization! We are building next-generation modd
 | [**goldsrc-host-python**](https://github.com/goldsrc-rs/goldsrc-host-python) | ![Planned](https://img.shields.io/badge/status-planned-lightgrey) | Dynamic Python 3.x runtime host with @plugin, @command, and @event decorators. |
 | [**docs**](https://github.com/goldsrc-rs/docs) | ![In Progress](https://img.shields.io/badge/status-in_progress-blue) | Official documentation, tutorials, API guides, and website for [docs.goldsrc.rs](https://docs.goldsrc.rs). |
 
-## 🔒 Security & Execution Models
+## Security & Execution Models
 
 1. **WebAssembly Plugins (Safe & Sandboxed)**: Memory-safe execution in an isolated WASM sandbox with declarative granular permissions (#[permissions]), safe hot-reloading, and zero crash risk for the server process.
 2. **Native Host Extensions (Trusted Native Execution)**: Full-speed native .dll / .so libraries executing with direct process privileges for specialized hardware/OS integrations.
 
-## 🤝 Getting Involved & Contributing
+## Getting Involved & Contributing
 
 All repositories welcome contributions! Check out the [Contributing Guide](https://github.com/goldsrc-rs/goldsrc-rs/blob/main/CONTRIBUTING.md) and [Roadmap](https://github.com/goldsrc-rs/goldsrc-rs/blob/main/ROADMAP.md) in the main repository.
 
-## ⚖️ Trademark Notice
+## Trademark Notice
 
 > [!NOTE]
 > Half-Life, GoldSrc, and the Half-Life logo are trademarks and/or registered trademarks of Valve Corporation.  
 > GoldSrc.rs is an independent, non-commercial open-source project and is not affiliated with, endorsed by, or sponsored by Valve Corporation or Rust Foundation.
 
-## 📄 License
+## License
 
 All official GoldSrc.rs projects are dual-licensed under **MIT** and **Apache-2.0**.
