@@ -35,7 +35,7 @@
 | [**`goldsrc-sdk`**](https://github.com/goldsrc-rs/goldsrc-sdk) | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Pure guest SDK, procedural macros (`#[plugin]`, `#[command]`), SPI contracts, and raw engine FFI bindings. | Plugin Developers |
 | [**`goldsrc-plugins-standard`**](https://github.com/goldsrc-rs/goldsrc-plugins-standard) | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Standard production suite of WASM plugins: `administration`, `chat_director`, `map_manager`, `menu_frontend`, `moderation`, `privileges`. | Server Administrators |
 | [**`goldsrc-template-plugin-rust`**](https://github.com/goldsrc-rs/goldsrc-template-plugin-rust) | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Canonical template repository for scaffolding new plugins with `cargo generate`. | Plugin Developers |
-| [**`goldsrc-game-cstrike`**](https://github.com/goldsrc-rs/goldsrc-game-cstrike) | ![In Progress](https://img.shields.io/badge/status-in_progress-blue) | Counter-Strike 1.6 domain models: weapons, economy, round lifecycle, defuse/bomb typestates, and ReGameDLL hooks. | Game Mode Developers |
+| [**`goldsrc-sdk-cstrike`**](https://github.com/goldsrc-rs/goldsrc-sdk-cstrike) | ![Active](https://img.shields.io/badge/status-active-brightgreen) | Counter-Strike 1.6 domain models: weapons, economy, round lifecycle, defuse/bomb typestates, and ReGameDLL hooks. | Game Mode Developers |
 
 ---
 
